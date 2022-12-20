@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Jose Barrios!</h1>
 <br/>
-<p>I am a Frontend Developer from from Bogotá - Colombia</p>
+<p>I am a Frontend Developer from Bogotá - Colombia</p>
 
 - 🔭 I’m currently working at Modyo
 - 🌱 I’m currently learning TypeScript and React Native
